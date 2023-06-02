@@ -12,6 +12,6 @@ Nossa equipe fez um projeto que executa as principais funções do banco de dado
 - Excluir dados.
 
 Alunos: 
-Gabriele Camile Nascimento - Matrícula: 202212144773
-Davi de Almeida Souza - Matrícula : 202203755773
-Fernando Tozato - Matrícula : 202202760811
+- Gabriele Camile Nascimento - Matrícula: 202212144773
+- Davi de Almeida Souza - Matrícula : 202203755773
+- Fernando Tozato - Matrícula : 202202760811
